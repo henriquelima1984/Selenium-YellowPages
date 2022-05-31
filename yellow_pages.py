@@ -72,3 +72,5 @@ for restaurant in list_of_restaurants:
        "adress": address,
        "website": link
     })
+
+browser.quit()
