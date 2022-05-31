@@ -20,7 +20,7 @@
 python -m venv .venv
 .venv/Scripts/activate
 ```
-### Instale as depedências do projeto
+### Instale as dependências do projeto
 ```console
 pip install -r requirements.txt
 ```
